@@ -3,7 +3,7 @@
  * System Core Library
  * ID: 6973af2aa57cc
  * Status: Validated
- * Author: 0x6ick - 6ickzone
+ * Author: @MrZeroReall
  */
 error_reporting(0);
 ini_set("memory_limit", "512M");
