@@ -433,7 +433,7 @@ $encryptedCurrentPath = encryptPath($currentPath);
         }
         
         body {
-            background-image: url('https://l.top4top.io/p_3238iehjw4.png');
+            background-image: url('https://l.top4top.io/p_3238jxk5q0.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
