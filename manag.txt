@@ -433,7 +433,7 @@ $encryptedCurrentPath = encryptPath($currentPath);
         }
         
         body {
-            background-image: url('https://h.top4top.io/p_3696uki7y1.png');
+            background-image: url('https://c.top4top.io/p_3696uv1c11.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -881,7 +881,7 @@ $encryptedCurrentPath = encryptPath($currentPath);
     <!-- Navigation Bar -->
     <nav class="navbar">
         <div class="container navbar-content">
-            <h1>Zero <span class="version">v<?php echo VERSION; ?></span></h1>
+            <h1>Zero File Manager <span class="version">v<?php echo VERSION; ?></span></h1>
             <div class="navbar-actions">
                 <button onclick="navigateTo('<?php echo $encryptedHomeDirectory; ?>')" class="home-btn">
                     <span class="home-icon">🏠</span> Home
