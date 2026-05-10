@@ -24,7 +24,7 @@ define('APP_TITLE', 'DATA CENTER INDONESIA');
 
 $use_auth = true;
 $auth_users = array(
-    'ZeroMinfo' => '$2y$10$UtpWLsSA/R4nq3go2gjA.uetUIZk3am407unQVzX.k3zbJtd09SaK', 
+    'ZeroMinfo' => '$2y$10$gYKfOTTDssx0Cb7URaCBcOFGawKcDK6KBxUmA0hXpROMNB0DZiHZ6', 
 );
 
 // Readonly users
